@@ -1,0 +1,33 @@
+{
+  "name": "react-native-screenpager",
+  "version": "0.1.0",
+  "description": "a snapchat like swipe ui with native rendering for react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbstack/react-native-screenpager.git"
+  },
+  "keywords": [
+    "react-native",
+    "screenpager",
+    "swipe",
+    "navigation",
+    "snapchat"
+  ],
+  "author": "Ansgar Mertens <ansgar@elbstack.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elbstack/react-native-screenpager/issues"
+  },
+  "homepage": "https://github.com/elbstack/react-native-screenpager#readme",
+  "peerDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^16.0.0-alpha.12",
+    "react-native": "^0.48.3",
+    "react-native-animatable": "^1.2.3",
+    "react-native-interactable": "^0.1.3"
+  }
+}
