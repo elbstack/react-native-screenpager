@@ -1,6 +1,6 @@
 {
   "name": "react-native-screenpager",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a snapchat like swipe ui with native rendering for react native",
   "main": "src/index.js",
   "scripts": {
